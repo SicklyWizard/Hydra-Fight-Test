@@ -1,6 +1,6 @@
 # Blender 4.0.0
 # www.blender.org
-o World_Fences
+g World_Fences_Mesh
 v -16.434792 0.122178 -6.312233
 v -16.434624 0.141214 -6.311730
 v -16.455505 0.122215 -6.306753
